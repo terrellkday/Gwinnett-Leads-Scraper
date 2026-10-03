@@ -1,0 +1,56 @@
+{
+  "R5073 024": {
+    "failed": true,
+    "attempts": 1,
+    "next_retry": "2026-10-04",
+    "fetched": "2026-10-02"
+  },
+  "R5179 533": {
+    "failed": true,
+    "attempts": 1,
+    "next_retry": "2026-10-04",
+    "fetched": "2026-10-02"
+  },
+  "R6150 415": {
+    "failed": true,
+    "attempts": 1,
+    "next_retry": "2026-10-04",
+    "fetched": "2026-10-02"
+  },
+  "R6193A010": {
+    "failed": true,
+    "attempts": 1,
+    "next_retry": "2026-10-04",
+    "fetched": "2026-10-02"
+  },
+  "R6193G035": {
+    "failed": true,
+    "attempts": 1,
+    "next_retry": "2026-10-04",
+    "fetched": "2026-10-02"
+  },
+  "R6193I009": {
+    "failed": true,
+    "attempts": 1,
+    "next_retry": "2026-10-04",
+    "fetched": "2026-10-02"
+  },
+  "R6245 220": {
+    "failed": true,
+    "attempts": 1,
+    "next_retry": "2026-10-04",
+    "fetched": "2026-10-02"
+  },
+  "R7178 363": {
+    "failed": true,
+    "attempts": 1,
+    "next_retry": "2026-10-04",
+    "fetched": "2026-10-02"
+  },
+  "R7322 014": {
+    "failed": true,
+    "attempts": 1,
+    "next_retry": "2026-10-04",
+    "fetched": "2026-10-02"
+  }
+}
