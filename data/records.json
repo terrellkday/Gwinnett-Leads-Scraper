@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-10-07T07:03:13.450602-04:00",
+  "fetched_at": "2026-10-08T07:03:50.499990-04:00",
   "source": "Gwinnett County GA Public Records",
   "date_range": {
-    "start": "2026-10-04",
-    "end": "2026-10-07"
+    "start": "2026-10-05",
+    "end": "2026-10-08"
   },
   "run_window": {
-    "start": "2026-10-04",
-    "end": "2026-10-07"
+    "start": "2026-10-05",
+    "end": "2026-10-08"
   },
   "archive_range": {
     "start": "2026-10-02",
@@ -17,7 +17,7 @@
     "start": "2026-09-30",
     "end": "2026-10-07"
   },
-  "new_this_run": 7,
+  "new_this_run": 0,
   "archive_total": 31,
   "dashboard_days": 120,
   "total": 31,
@@ -94,7 +94,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-07",
+      "last_verified": "2026-10-08",
       "flags": [
         "Tax delinquent",
         "Tax sale",
@@ -138,7 +138,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-07",
+      "last_verified": "2026-10-08",
       "flags": [
         "Tax delinquent",
         "Tax sale",
@@ -181,7 +181,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-07",
+      "last_verified": "2026-10-08",
       "flags": [
         "Tax delinquent",
         "Tax sale",
@@ -224,7 +224,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-07",
+      "last_verified": "2026-10-08",
       "flags": [
         "Tax delinquent",
         "Tax sale",
@@ -267,7 +267,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-07",
+      "last_verified": "2026-10-08",
       "flags": [
         "Tax delinquent",
         "Tax sale",
@@ -526,7 +526,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-07",
+      "last_verified": "2026-10-08",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -568,7 +568,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-07",
+      "last_verified": "2026-10-08",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -610,7 +610,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-07",
+      "last_verified": "2026-10-08",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -652,7 +652,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-07",
+      "last_verified": "2026-10-08",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -694,7 +694,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-07",
+      "last_verified": "2026-10-08",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -736,7 +736,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-07",
+      "last_verified": "2026-10-08",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -778,7 +778,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-07",
+      "last_verified": "2026-10-08",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -820,7 +820,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-07",
+      "last_verified": "2026-10-08",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -862,7 +862,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-07",
+      "last_verified": "2026-10-08",
       "flags": [
         "Pre-foreclosure",
         "New this week"
