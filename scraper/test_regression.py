@@ -177,8 +177,18 @@ def test_gwinnett_tax_sale_candidates():
     assert urls[0] == ("https://www.gwinnetttaxcommissioner.com/documents/d/egov/"
                        "october-2026-tax-sale-web-list?download=true")
     # Surrounding months are covered so a month rollover needs no edit.
-    assert any("november-" in u for u in urls[1:])
-    assert any("december-" in u for u in urls[1:])
+    # Slugs are computed from today (not hardcoded month names) so this
+    # test does not go stale in January: the current month, the previous
+    # month, and the next two months must all be present.
+    now = datetime.now()
+    expected = set()
+    for delta in (-1, 0, 1, 2):
+        m = (now.month - 1 + delta) % 12 + 1
+        y = now.year + (now.month - 1 + delta) // 12
+        expected.add(f"{datetime(y, m, 1).strftime('%B').lower()}-{y}-")
+    joined = "\n".join(urls)
+    for slug in expected:
+        assert slug in joined, f"missing candidate slug {slug} in {urls}"
     assert len(urls) == len(set(urls))  # no duplicates
 
 

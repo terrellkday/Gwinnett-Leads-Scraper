@@ -138,11 +138,15 @@ def _gwinnett_tax_sale_candidates() -> List[str]:
     Gwinnett names each sale's PDF "<monthname>-<year>-tax-sale-web-list".
     Sales happen on the first Tuesday of a month *when scheduled* (2026 ran
     sales in March; 8/4, 10/6, 12/1 are tentatively scheduled), so the URL
-    for a month with no sale simply 404s and is skipped.
+    for a month with no sale simply 404s and is skipped. Deltas cover the
+    previous month, the current month, and the next two, so the current
+    month's PDF is always tried (a previous version omitted delta 0, so
+    in November 2026 the november-2026 URL was never generated and the
+    regression test below failed two mornings running).
     """
     urls = list(TAX_SALE_LISTING_URLS)
     now = datetime.now()
-    for delta in (-1, 1, 2):
+    for delta in (-1, 0, 1, 2):
         m = (now.month - 1 + delta) % 12 + 1
         y = now.year + (now.month - 1 + delta) // 12
         name = f"{datetime(y, m, 1).strftime('%B').lower()}-{y}-tax-sale-web-list"
