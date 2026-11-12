@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-11-11T07:02:52.633099-05:00",
+  "fetched_at": "2026-11-12T07:03:24.584854-05:00",
   "source": "Gwinnett County GA Public Records",
   "date_range": {
-    "start": "2026-11-08",
-    "end": "2026-11-11"
+    "start": "2026-11-09",
+    "end": "2026-11-12"
   },
   "run_window": {
-    "start": "2026-11-08",
-    "end": "2026-11-11"
+    "start": "2026-11-09",
+    "end": "2026-11-12"
   },
   "archive_range": {
     "start": "2026-10-02",
@@ -17,7 +17,7 @@
     "start": "2026-09-30",
     "end": "2026-11-11"
   },
-  "new_this_run": 1,
+  "new_this_run": 0,
   "archive_total": 49,
   "dashboard_days": 120,
   "total": 49,
@@ -94,7 +94,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-11-11",
+      "last_verified": "2026-11-12",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -136,7 +136,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-11-11",
+      "last_verified": "2026-11-12",
       "flags": [
         "Tax delinquent",
         "Tax sale",
@@ -180,7 +180,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-11-11",
+      "last_verified": "2026-11-12",
       "flags": [
         "Tax delinquent",
         "Tax sale",
@@ -223,7 +223,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-11-11",
+      "last_verified": "2026-11-12",
       "flags": [
         "Tax delinquent",
         "Tax sale",
@@ -266,7 +266,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-11-11",
+      "last_verified": "2026-11-12",
       "flags": [
         "Tax delinquent",
         "Tax sale",
@@ -309,7 +309,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-11-11",
+      "last_verified": "2026-11-12",
       "flags": [
         "Tax delinquent",
         "Tax sale",
@@ -568,7 +568,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-11-11",
+      "last_verified": "2026-11-12",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -610,7 +610,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-11-11",
+      "last_verified": "2026-11-12",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -652,7 +652,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-11-11",
+      "last_verified": "2026-11-12",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -736,7 +736,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-11-11",
+      "last_verified": "2026-11-12",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -2122,7 +2122,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-11-11",
+      "last_verified": "2026-11-12",
       "flags": [
         "Tax delinquent",
         "New this week"
