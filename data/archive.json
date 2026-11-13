@@ -32,7 +32,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-12",
+    "last_verified": "2026-11-13",
     "flags": [
       "Pre-foreclosure",
       "New this week"
@@ -74,7 +74,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-12",
+    "last_verified": "2026-11-13",
     "flags": [
       "Tax delinquent",
       "Tax sale",
@@ -118,7 +118,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-12",
+    "last_verified": "2026-11-13",
     "flags": [
       "Tax delinquent",
       "Tax sale",
@@ -161,7 +161,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-12",
+    "last_verified": "2026-11-13",
     "flags": [
       "Tax delinquent",
       "Tax sale",
@@ -204,7 +204,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-12",
+    "last_verified": "2026-11-13",
     "flags": [
       "Tax delinquent",
       "Tax sale",
@@ -247,7 +247,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-12",
+    "last_verified": "2026-11-13",
     "flags": [
       "Tax delinquent",
       "Tax sale",
@@ -474,6 +474,48 @@
     "first_seen": "2026-10-02"
   },
   {
+    "doc_num": "GPN-420-190510",
+    "doc_type": "Notice of Sale Under Power",
+    "filed": "2026-11-12",
+    "cat": "FC",
+    "cat_label": "Pre-Foreclosure",
+    "owner": "Rene Harville",
+    "parcel_owner": "",
+    "name_order": "natural",
+    "grantee": "",
+    "amount": null,
+    "legal": "The Champion Thursday, November 12, 2026 City: Decatur County: DeKalb 420-190510 11/5,11/12,11/19,11/26NOTICE OF SALE UNDER POWERGEORGIA, GWINNETT COUNTYUnder and by virtue of the Power of Sale contained in a Security Deed executed by Rene Harville, a single woman, in favor of Mortgage Electronic Registration Systems, Inc, as Grantee, as Nominee for Finance America, L ... click 'view' to open the full text.",
+    "parcel_id": "",
+    "prop_address": "",
+    "prop_city": "",
+    "prop_state": "GA",
+    "prop_zip": "",
+    "pub_city": "Decatur",
+    "mail_address": "",
+    "mail_city": "",
+    "mail_state": "",
+    "mail_zip": "",
+    "owner_occupied": null,
+    "clerk_url": "https://www.georgiapublicnotice.com/search.aspx",
+    "source": "Georgia Public Notice (legal organ advertisement)",
+    "foreclosure_sale_date": "",
+    "tax_sale_date": "",
+    "years_delinquent": "",
+    "heirs_unknown": false,
+    "notice_number": "420-190510",
+    "status": "active",
+    "match_confidence": 0.0,
+    "match_method": "none",
+    "last_verified": "2026-11-13",
+    "flags": [
+      "Pre-foreclosure",
+      "New this week"
+    ],
+    "score": 65,
+    "county": "Gwinnett",
+    "first_seen": "2026-11-06"
+  },
+  {
     "doc_num": "GPN-GDP2741",
     "doc_type": "Notice of Sale Under Power",
     "filed": "2026-11-11",
@@ -506,7 +548,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-12",
+    "last_verified": "2026-11-13",
     "flags": [
       "Pre-foreclosure",
       "New this week"
@@ -548,7 +590,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-12",
+    "last_verified": "2026-11-13",
     "flags": [
       "Pre-foreclosure",
       "New this week"
@@ -600,48 +642,6 @@
     "first_seen": "2026-11-04"
   },
   {
-    "doc_num": "GPN-420-190510",
-    "doc_type": "Notice of Sale Under Power",
-    "filed": "2026-11-05",
-    "cat": "FC",
-    "cat_label": "Pre-Foreclosure",
-    "owner": "Rene Harville",
-    "parcel_owner": "",
-    "name_order": "natural",
-    "grantee": "",
-    "amount": null,
-    "legal": "The Champion Thursday, November 05, 2026 City: Decatur County: DeKalb 420-190510 11/5,11/12,11/19,11/26NOTICE OF SALE UNDER POWERGEORGIA, GWINNETT COUNTYUnder and by virtue of the Power of Sale contained in a Security Deed executed by Rene Harville, a single woman, in favor of Mortgage Electronic Registration Systems, Inc, as Grantee, as Nominee for Finance America, L ... click 'view' to open the full text.",
-    "parcel_id": "",
-    "prop_address": "",
-    "prop_city": "",
-    "prop_state": "GA",
-    "prop_zip": "",
-    "pub_city": "Decatur",
-    "mail_address": "",
-    "mail_city": "",
-    "mail_state": "",
-    "mail_zip": "",
-    "owner_occupied": null,
-    "clerk_url": "https://www.georgiapublicnotice.com/search.aspx",
-    "source": "Georgia Public Notice (legal organ advertisement)",
-    "foreclosure_sale_date": "",
-    "tax_sale_date": "",
-    "years_delinquent": "",
-    "heirs_unknown": false,
-    "notice_number": "420-190510",
-    "status": "active",
-    "match_confidence": 0.0,
-    "match_method": "none",
-    "last_verified": "2026-11-10",
-    "flags": [
-      "Pre-foreclosure",
-      "New this week"
-    ],
-    "score": 65,
-    "county": "Gwinnett",
-    "first_seen": "2026-11-06"
-  },
-  {
     "doc_num": "GPN-GDP3022",
     "doc_type": "Notice of Sale Under Power",
     "filed": "2026-11-04",
@@ -674,7 +674,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-12",
+    "last_verified": "2026-11-13",
     "flags": [
       "Pre-foreclosure",
       "New this week"
@@ -2060,7 +2060,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-11-12",
+    "last_verified": "2026-11-13",
     "flags": [
       "Tax delinquent",
       "New this week"
